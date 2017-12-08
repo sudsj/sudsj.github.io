@@ -2,7 +2,8 @@
 
 body {
   margin: 0;
-  font:normal 75% Arial, Helvetica, sans-serif;
+  color: #BCF8AA ;
+  /*font:normal 75% Arial, Helvetica, sans-serif;*/
 }
 
 canvas {
@@ -16,7 +17,7 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #b61924;
+  background-color: #232741;
   background-image: url("");
   background-repeat: no-repeat;
   background-size: cover;
